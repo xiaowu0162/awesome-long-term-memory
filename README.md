@@ -1,7 +1,7 @@
 # awesome-long-memory
 A collection of long-term memory papers for large language models (LLMs), organized by their primary focus.
 
-Author: [Di Wu](https://xiaowu0162.github.io/) and [GPT-5 Thinking](https://openai.com/index/introducing-gpt-5/). 
+Author: [Di Wu](https://xiaowu0162.github.io/) and [GPT-5 Series](https://openai.com/index/introducing-gpt-5/). 
 
 This document only reflects what we found in our literture survey, which is by no means complete. Feel free to submit a pr if you are interested!
 
@@ -21,7 +21,9 @@ This document only reflects what we found in our literture survey, which is by n
 1. [MemLong: Memory-Augmented Retrieval for Long Text Modeling](https://arxiv.org/abs/2408.16967) (Liu et al., arXiv 2024)  
 1. [Memory Layers at Scale](https://arxiv.org/abs/2412.09764) (Berges et al., arXiv 2024)  
 1. [M+: Extending MEMORYLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592) (Wang et al., ICML 2025)  
-1. [Can Memory-Augmented Language Models Generalize on Reasoning-in-a-Haystack Tasks?](https://arxiv.org/abs/2503.07903) (Das et al., arXiv 2025)  
+1. [Can Memory-Augmented Language Models Generalize on Reasoning-in-a-Haystack Tasks?](https://arxiv.org/abs/2503.07903) (Das et al., arXiv 2025)
+1. [Nested Learning: The Illusion of Deep Learning Architectures](https://arxiv.org/abs/2512.24695) (Behrouz et al., NeurIPS 2025)  
+1. [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372) (Cheng et al., arXiv 2026)  
 
 ### Long-Context Representations and Continual Learning
 
@@ -36,7 +38,8 @@ This document only reflects what we found in our literture survey, which is by n
 1. [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943) (Zweiger et al., arXiv 2025)
 1. [PERK: Long-Context Reasoning as Parameter-Efficient Test-Time Training](https://arxiv.org/abs/2507.06415) (Chen et al., arXiv 2025)
 1. [Parametric Retrieval Augmented Generation](https://sigir2025.dei.unipd.it/detailed-program/paper?paper=9bf31c7ff062936a96d3c8bd1f8f2ff3) (Su et al., SIGIR 2025)  
-1. [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103) (Lin et al., arXiv 2025)  
+1. [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103) (Lin et al., arXiv 2025)
+1. [Memory Bank Compression for Continual Adaptation of Large Language Models](https://arxiv.org/abs/2601.00756) (Katraouras & Rafailidis, SAC 2026)  
 
 ### Memory-Inspired Context Engineering 
 1. [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) (Packer et al., 2023)
@@ -59,6 +62,8 @@ This document only reflects what we found in our literture survey, which is by n
 1. [Prime: LLM Personalization with Cognitive Memory and Thought Processes](https://arxiv.org/abs/2507.04607) (Zhang et al., 2025)  
 1. [MemAgent: Reshaping Long-Context LLM with Multi-Conversation RL-Based Memory Agent](https://arxiv.org/abs/2507.02259) (Yu et al., 2025)  
 1. [SGMem: Sentence Graph Memory for Long-Term Conversational Agents](https://arxiv.org/abs/2509.21212) (Zhang et al., 2025)
+1. [Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](https://arxiv.org/abs/2601.03785) (Tao et al., arXiv 2026)  
+1. [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553) (Liu et al., arXiv 2026)  
 
 ### Reasoning
 1. [Sleep-Time Compute: Beyond Inference Scaling at Test-Time](https://arxiv.org/abs/2504.13171) (Lin et al., arXiv 2025)  
@@ -78,7 +83,9 @@ This document only reflects what we found in our literture survey, which is by n
 1. [MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agents](https://arxiv.org/abs/2507.21428) (Lumer et al., arXiv 2025)  
 1. [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) (Ouyang et al., arXiv 2025)
 1. [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699) (Ye et al., arXiv 2025)
- 
+1. [Towards General Continuous Memory for Vision-Language Models](https://arxiv.org/abs/2505.17670) (Wu et al., NeurIPS 2025)  
+1. [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398) (Zhang et al., NeurIPS 2025)  
+1. [WorldMem: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (Xiao et al., NeurIPS 2025)  
 
 ## Benchmarks
 * Needle-in-a-Haystack — [GitHub](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)  
