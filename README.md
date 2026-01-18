@@ -87,6 +87,14 @@ This document only reflects what we found in our literture survey, which is by n
 1. [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398) (Zhang et al., NeurIPS 2025)  
 1. [WorldMem: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (Xiao et al., NeurIPS 2025)  
 
+## Surveys
+1. [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501) (Zhang et al., arXiv 2024)  
+1. [Lifelong Learning of Large Language Model based Agents: A Roadmap](https://arxiv.org/abs/2501.07278) (Zheng et al., arXiv 2025)  
+1. [From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965) (Wu et al., arXiv 2025)  
+1. [Memory in Large Language Models: Mechanisms, Evaluation and Evolution](https://arxiv.org/abs/2509.18868) (Zhang et al., arXiv 2025)  
+1. [Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564) (Hu et al., arXiv 2025)  
+1. [AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343) (Liang et al., arXiv 2025)  
+
 ## Benchmarks
 * Needle-in-a-Haystack — [GitHub](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)  
 * L-Eval — [arXiv](https://arxiv.org/abs/2307.11088), [OpenReview](https://openreview.net/forum?id=eUAr4HwU0X), [GitHub](https://github.com/OpenLMLab/LEval)  
